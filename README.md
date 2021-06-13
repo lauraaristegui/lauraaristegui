@@ -1,19 +1,18 @@
 
 
 
-- 🌱 I’m currently learning React Hooks
+
 
 
 
 ## Frontend developer!
 
-- :sunflower: Currently learning Next JS
-- :crescent_moon: Astronomy enthusiast
+- 🌱 I’m currently learning React Hooks
   
 <h4>Connect with me:</h4>
 <p>
 <a href="https://twitter.com/laura_aristegui" target="blank"><img align="center" src="https://i.ibb.co/dMYV3DX/icons8-twitter-128.png" alt="flor_granucci" height="40" width="40" /></a>
-<a href="linkedin.com/in/lauraaristegui" target="blank"><img align="center" src="https://i.ibb.co/LP7Mssm/icons8-linkedin-128.png" alt="laura aristegui" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/lauraaristegui/" target="blank"><img align="center" src="https://i.ibb.co/LP7Mssm/icons8-linkedin-128.png" alt="laura aristegui" height="40" width="40" /></a>
 <a href="https://instagram.com/marialauraaristegui" target="blank"><img align="center" src="https://i.ibb.co/d02FBrt/icons8-instagram-old-128.png" alt="lauraaristegui" height="40" width="40" /></a>
 </p>
 
