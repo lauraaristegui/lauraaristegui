@@ -7,7 +7,6 @@
 
 ## Frontend developer!
 
-- 🌱 I’m currently learning React Hooks
   
 <h4>Connect with me:</h4>
 <p>
