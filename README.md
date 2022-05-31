@@ -10,7 +10,7 @@
   
 <h4>Connect with me:</h4>
 <p>
-<a href="https://twitter.com/@aristegui02" target="blank"><img align="center" src="https://i.ibb.co/dMYV3DX/icons8-twitter-128.png" alt="flor_granucci" height="40" width="40" /></a>
+<a href="https://twitter.com/@aristegui02" target="blank"><img align="center" src="https://i.ibb.co/dMYV3DX/icons8-twitter-128.png" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/lauraaristegui/" target="blank"><img align="center" src="https://i.ibb.co/LP7Mssm/icons8-linkedin-128.png" alt="laura aristegui" height="40" width="40" /></a>
 <a href="https://instagram.com/marialauraaristegui" target="blank"><img align="center" src="https://i.ibb.co/d02FBrt/icons8-instagram-old-128.png" alt="lauraaristegui" height="40" width="40" /></a>
 </p>
