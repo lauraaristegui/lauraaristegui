@@ -19,8 +19,9 @@
 
 <p> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.ibb.co/rGYm7Lh/icons8-javascript-logo-128.png" alt="js" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://i.ibb.co/2q1BYps/icons8-html-5-128.png" alt="html" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.ibb.co/W0mzJxc/icons8-css3-128.png" alt="css3" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/69224902/211224766-134c4996-71a4-4db3-9e7d-0fe56188671b.png)
+" alt="html" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" alt="css3" width="40" height="40"/></a> 
  <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> 
  <br>
  <a href="https://nodejs.org/es/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=40&color=74bec2" alt="node"/></a> 
